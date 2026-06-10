@@ -6,7 +6,7 @@ This project addresses *AI in Pathology Image Analysis*. Eight haematoxylin & eo
 
 ## Overview
 
-The notebook (`Submission_ready_LAQ3.html`) runs an end-to-end image-analysis pipeline:
+The notebook (HnE.PDF) runs an end-to-end image-analysis pipeline:
 
 1. Load 8 H&E slides organised into four groups (A, B, C, D).
 2. Cut each slide into 100×100 pixel tiles and discard tiles that are mostly background (tissue filter at a 20% threshold).
