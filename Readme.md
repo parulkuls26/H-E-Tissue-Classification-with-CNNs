@@ -4,6 +4,8 @@
 
 This project addresses *AI in Pathology Image Analysis*. Eight haematoxylin & eosin (H&E) stained images are tiled into 100×100 patches and used to train two binary convolutional neural networks, which are then cross-tested against each other's data.
 
+# HematoxylinEosin.pdf uploaded in this repository presents the entire analysis with the code, figures and discussion at the end.
+
 ## Overview
 
 The notebook (HnE.PDF) runs an end-to-end image-analysis pipeline:
